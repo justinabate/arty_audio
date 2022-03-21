@@ -9,7 +9,7 @@ Audio pass-through. Extends @[artvvb](https://github.com/artvvb)'s work on [Pmod
 
 ## SW/HW
 Xilinx Vivado 2021.1<br/>
-Digilent ARTY Rev. C (XC7A35T)<br/>
+[Digilent ARTY Rev. C](https://digilent.com/reference/programmable-logic/arty/start?redirect=1) (XC7A35T)<br/>
 Digilent Pmod I2S2
 
 ## Usage
